@@ -7,6 +7,9 @@
 </template>
 
 <style>
+nav a {
+  font-size: 10px;
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
